@@ -1,0 +1,5 @@
+[2015-03-12 10:31:28]: USER=mwest, algorithm=2, port=36646, time=Thu Mar 12 10:31:28 2015
+[2015-03-12 10:31:28]: Maze size = 35x35
+[2015-03-12 10:31:28]: initializing global worldmap
+[2015-03-12 10:34:20]: Moves to Solve: 3639
+[2015-03-12 10:34:20]: Hash: 3618961167
